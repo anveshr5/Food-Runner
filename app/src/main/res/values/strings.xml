@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Foodster</string>
+    <string name="password_hint">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up_now">Want access to delicious food? Sign up now!</string>
+    <string name="name">Name (Minimum 3 character)</string>
+    <string name="email_id">Email address</string>
+    <string name="mobile_number">Mobile Number (10 digits)</string>
+
+    <string name="account_details_preference_file_name">Account Details Preferences</string>
+
+    <string name="login">LogIn</string>
+    <string name="reset_note">Enter your email id and we\'ll send you an OTP to reset your password!</string>
+    <string name="home">Home</string>
+    <string name="my_profile">My Profile</string>
+    <string name="favourite_restaurants">Favourite Restaurants</string>
+    <string name="faqs">FAQs</string>
+    <string name="log_out">Log Out</string>
+    <string name="tag_line">What\'s your craving today?</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="cost_per_person">/person</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="order_history">Order History</string>
+    <string name="request_otp">Request OTP</string>
+    <string name="message_reset_password">An OTP has been sent to your Email Id, Use it to change your password</string>
+    <string name="otp_4_digits">OTP (4 Digits)</string>
+    <string name="new_password">New Password(Min. 4 characters)</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="restaurant_name">Restaurant name</string>
+    <string name="money">₹350</string>
+    <string name="rating">Rating</string>
+    <string name="loginlogo">Hey, Craving Something? Log In and order right away!</string>
+    <string name="foodster">Foodster</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="restaurant_details_preference_file_name">Restaurant Details Preferences</string>
+    <string name="place_order">Place Order</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="order_placed">Tasty Food En\' Route!</string>
+    <string name="total_cost">Total Cost :</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="register">Register</string>
+    <string name="proceed_to_cart">Proceed to Cart</string>
+    <string name="hey_anvesh">Hey, Anvesh</string>
+    <string name="no_res_name_msg">No Restaurant with such Name</string>
+    <string name="add_res_msg">Go on and Add some restaurants!</string>
+    <string name="otp_valid">OTP is valid for 24 Hours</string>
+    <string name="name_profile">Name:</string>
+    <string name="mobile_profile">Mobile:</string>
+    <string name="email_id_profile">Email Id:</string>
+    <string name="address_profile">Address:</string>
+    <string name="done">Done!</string>
+    <string name="food_item_name">Food Item Name</string>
+    <string name="cost">Cost</string>
+    <string name="question">Question?</string>
+    <string name="answer">Answer!</string>
+    <string name="num">1.</string>
+    <string name="amount">Rs. 400</string>
+    <string name="add">+</string>
+    <string name="remove">-</string>
+    <string name="total_cost_money">Total cost : ₹350</string>
+    <string name="delivered">Delivered</string>
+    <string name="time">06:12:34</string>
+</resources>

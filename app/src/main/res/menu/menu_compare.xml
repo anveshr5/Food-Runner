@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/searchView"
+        android:icon="@drawable/ic_search_icon"
+        android:title="Search"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        app:showAsAction="ifRoom|collapseActionView" />
+
+    <item
+        android:icon="@drawable/ic_compare"
+        android:title="Compare"
+        app:showAsAction="always">
+        <menu>
+
+            <item
+                android:id="@+id/comName"
+                android:title="Name" />
+            <item
+                android:id="@+id/comRating"
+                android:title="Rating" />
+            <item
+                android:id="@+id/comCostHighToLow"
+                android:title="Cost: High to Low" />
+            <item
+                android:id="@+id/comCostLowToHigh"
+                android:title="Cost: Low to High" />
+
+        </menu>
+    </item>
+
+</menu>
