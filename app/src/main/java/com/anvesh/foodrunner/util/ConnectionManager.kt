@@ -9,7 +9,7 @@ import android.os.Build
 
 class ConnectionManager {
     fun checkConnectivity(context: Context): Boolean {
-        val connectivityManager =
+            val connectivityManager =
             context.getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
         if (Build.VERSION.SDK_INT < 23) {
             val activeNetwork: NetworkInfo? = connectivityManager.activeNetworkInfo
